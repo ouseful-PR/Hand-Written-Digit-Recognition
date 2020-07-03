@@ -2,6 +2,12 @@
 Hand Written Digit Recognition using javascript library tensorflowjs
  
 The original demo has been wrapped as a jupyter-server-proxy application allowing it to be used directly within a Jupyter noteobok context: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-PR/Hand-Written-Digit-Recognition/serverproxy)
+
+
+See also:
+- [`nb_tensorspace_server_proxy`](https://github.com/innovationOUtside/nb_tensorspace_server_proxy) which does a similar thing for a couple of smaller networks in the *TensorSpace Playground*.
+- [`nb_tensorflow_playground_serverproxy`](https://github.com/innovationOUtside/nb_tensorflow_playground_serverproxy) which does a similar thing for the *Tensorflow Playground*.
+
  
 ## OriginalLive Demo
 **[https://bensonruan.com/handwritten-digit-recognition-with-tensorflow-js/](https://bensonruan.com/handwritten-digit-recognition-with-tensorflow-js/)**
